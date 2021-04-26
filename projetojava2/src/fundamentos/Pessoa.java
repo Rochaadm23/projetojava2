@@ -1,4 +1,4 @@
-package curso.java.fernando;
+package fundamentos;
 
 import java.util.Date;
 
